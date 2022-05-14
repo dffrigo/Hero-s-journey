@@ -5,7 +5,7 @@
 
 First "game" and first JavaScript project.
 
-
+![Hero's journey](https://user-images.githubusercontent.com/102762000/168407801-171b5f6e-358c-4a0d-b6f1-c7e2124267b8.png)
 
 ## Installation
 
